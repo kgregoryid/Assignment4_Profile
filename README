@@ -1,14 +1,7 @@
-Welcome to your Appcelerator Titanium Mobile Project
+Reviewer 1: 
+1. After downloading the addiontal font and image files the code runs good in the emulator. I really appreciate the comments on top of the code giving directions for the people assessing their code what they need to download to have the app run properly. I liked how the font on the app was specialized. I also appreciated the screen shots that the developer included to make sure that the files that I downloaded matched what the developer designed. 
+2. The App has two windows. The first window gives general information about the person while the second window goes more in-depth about the persons work experiences and skills. I liked how the developer included the icons which linked to facebook and email but I would have liked to see the contact information for the developer on the main landing page.  Teh windows were easy to read and was visually appealing. 
+3. The navigation between the two windows was formatted through tabs. The navigation worked as it was intended to. The tabs to navigate between the two windows were at the bottom of both pages.
+4. The app ran best on the iphone 5s. The app's information displayed best on a cell phone size. As I increased the size of the display to an ipad the display became smaller and not as easy to read and navigate through. 
 
-This is a single window application with a single view - a mostly blank canvas. Requires Titanium Mobile SDK 1.8.0+
 
-----------------------------------
-Stuff our legal folk make us say:
-
-Appcelerator, Appcelerator Titanium and associated marks and logos are 
-trademarks of Appcelerator, Inc. 
-
-Titanium is Copyright (c) 2009-2013 by Appcelerator, Inc. All Rights Reserved.
-
-Titanium is licensed under the Apache Public License (Version 2). Please
-see the LICENSE file for the full license.
